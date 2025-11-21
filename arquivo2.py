@@ -83,3 +83,5 @@ if area != "":
         print("✅ Dados salvos em vagas.json")
 else:
     print("programa encerrado sem nenhuma busca feita")
+
+    

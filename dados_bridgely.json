@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "Matheus",
+        "trilhas": [
+            {
+                "tema": "Dados",
+                "data_criacao": "20/11/2025",
+                "status": "Pausado",
+                "recursos": [
+                    {
+                        "titulo": "It",
+                        "autor": "Stephen King",
+                        "ano": "1986"
+                    },
+                    {
+                        "titulo": "Storytelling with Data",
+                        "autor": "Cole Nussbaumer Knaflic",
+                        "ano": "2015"
+                    },
+                    {
+                        "titulo": "Cuaderno",
+                        "autor": "Cool Libreta",
+                        "ano": "2020"
+                    }
+                ]
+            }
+        ]
+    }
+]

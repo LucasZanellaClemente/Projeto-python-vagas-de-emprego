@@ -114,7 +114,7 @@ def codigo2():
 
         if opcao == "1":
             area = input("Digite a área de tecnologia desejada: ").strip()
-            local = input("Digite sua localização: ").strip()
+            local = input("Digite seu País: ").strip()
 
             if area == "" or local == "":
                 print("⚠️ Os campos não podem ficar vazios.")
@@ -142,3 +142,4 @@ def codigo2():
 
         else:
             print("⚠️ Opção inválida. Tente novamente.")
+codigo2()

@@ -320,7 +320,7 @@ def codigo1():
 def main():
     while True:
         print("\n===== SISTEMA BRIDGELY =====")
-        print("1 - Buscar vagas (API de empregos)")
+        print("1 - Buscar vagas (API de empregos Findwork)")
         print("2 - Criar trilha de estudos (OpenLibrary)")
         print("3 - Sair")
 
